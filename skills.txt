@@ -1,0 +1,15 @@
+  skill1: Basic theory
+  skill2: Client-server architecture
+  skill3: HTTP methods
+  skill4: JSON, XML
+  skill5: API testing via Postman
+  skill6: Charles and Fiddler
+  skill7: Dev Tools
+  skill8: VPN
+  skill19: Mobile testing
+  skill110: Feature of iOS, Android
+  skill8: Build iOS apps on XCode
+  skill19: Android Studio
+  skill110: ADB
+
+  
